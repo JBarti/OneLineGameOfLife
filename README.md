@@ -12,3 +12,4 @@ The code contains no:
 
 A single recursive immedietly invoked lambda function contains the whole logic of the game, the function is then passed into another lambda function as an argument to. The second lambda function is immedietly invoked so that we could avoid making a function call thus adding a new line of code.
 
+To run the game use the command `python3 ./min_game_one_line.py`. Press enter to proceed into the next generation and type `q` to exit the program.
